@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+pypdf
+pymupdf
+python-dotenv
+ipykernel
+sentence-transformers
+langchain-huggingface
+langchain-chroma
+langchain-groq
+streamlit
+rank-bm25
